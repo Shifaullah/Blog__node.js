@@ -1,0 +1,14 @@
+.nav-item{
+    margin-right:32px;
+    font-weight: 600;
+}
+body{
+    min-height: 100vh;
+}
+footer{
+    position: absolute;
+    z-index: 23;
+    font-weight:600;
+    bottom: 0px;
+    padding-bottom: 24px;
+}
