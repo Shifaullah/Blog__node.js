@@ -6,9 +6,8 @@ body{
     min-height: 100vh;
 }
 footer{
-    position: absolute;
-    z-index: 23;
+    position: relative;
     font-weight:600;
-    bottom: 0px;
+    top:40vh;
     padding-bottom: 24px;
 }
